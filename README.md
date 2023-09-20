@@ -1,5 +1,5 @@
 # RegGAN-EfficientUNet
-This project is based on RegGAN [code](https://github.com/Kid-Liet/Reg-GAN) [Paper](https://arxiv.org/pdf/2110.06465.pdf)
+This project is based on RegGAN [[code](https://github.com/Kid-Liet/Reg-GAN)] [[paper](https://arxiv.org/pdf/2110.06465.pdf)]
 
 # Overview
 RegGAN stands as a groundbreaking model crafted specifically to tackle the constraints that have hampered the efficacy of prevailing image-to-image translation models such as Pix2Pix and CycleGAN. The distinguishing feature of RegGAN lies in its innovative treatment of unaligned images within the training data. It perceives these unaligned images as noisy labels and artfully employs a registration network to harmonize them with the disordered noise distribution.   
