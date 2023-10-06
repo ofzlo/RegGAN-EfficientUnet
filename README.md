@@ -8,6 +8,8 @@ This novel approach propels RegGAN to outperform Pix2Pix and Cycle-GAN without n
 
 Within the context of this research paper, we opted for the utilization of the U-Net as our chosen registration network. While the paper presents this choice without extensive elaboration, it prompts intriguing inquiries. Specifically, we contemplate whether alterations in the depth of the U-Net or the introduction of an Efficient-Unet can yield both a more streamlined model and performance enhancements worth exploring in the future.   
 
+# Training
+
 ## Citation
 
 ```
